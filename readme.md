@@ -50,7 +50,7 @@ my-microservice-cli/
 │   │       └── application.yml
 │   └── pom.xml
 └── pom.xml
-
+```
 
 ## Getting Started
 
