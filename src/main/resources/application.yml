@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: my-microservice-cli
+  main:
+    allow-circular-references: true
