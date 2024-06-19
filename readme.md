@@ -1,4 +1,4 @@
-Certainly! Here's the corrected and formatted README.md:
+
 
 ```markdown
 # My Microservice CLI
@@ -15,7 +15,7 @@ My Microservice CLI is a command-line tool designed to simplify the creation and
 
 ## Project Structure
 
-```plaintext
+
 my-microservice-cli/
 ├── src/
 │   ├── main/
@@ -50,7 +50,7 @@ my-microservice-cli/
 │   │       └── application.yml
 │   └── pom.xml
 └── pom.xml
-```
+
 
 ## Getting Started
 
