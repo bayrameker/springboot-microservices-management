@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # My Microservice CLI
 
 My Microservice CLI is a command-line tool designed to simplify the creation and management of microservices using Spring Boot. This tool allows users to quickly generate new microservices with predefined templates, assign them unique ports, and optionally enable inter-service communication via Eureka.
@@ -15,7 +15,7 @@ My Microservice CLI is a command-line tool designed to simplify the creation and
 
 ## Project Structure
 
-
+```markdown
 my-microservice-cli/
 ├── src/
 │   ├── main/
