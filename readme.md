@@ -1,6 +1,4 @@
-
-
-### README.md
+Certainly! Here's the corrected and formatted README.md:
 
 ```markdown
 # My Microservice CLI
@@ -17,7 +15,7 @@ My Microservice CLI is a command-line tool designed to simplify the creation and
 
 ## Project Structure
 
-```
+```plaintext
 my-microservice-cli/
 ├── src/
 │   ├── main/
@@ -124,5 +122,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Spring Boot
 - Spring Shell
 - Eureka
-
 ```
+
+Feel free to update the repository URL and other details according to your needs. This README provides a clear overview of the project, its structure, usage instructions, and contribution guidelines.
